@@ -1,0 +1,134 @@
+#primeiraparte{
+    background-color: #303030;
+    width: 1440px;
+    height: 475px;
+    display: flex;
+}
+
+#tituloinicial{
+    width: 1040px;
+    height: 72px;
+    top: 206px;
+    left: 62px;
+    color: white;
+    text-align: center;
+    margin-left: -100px;
+    margin-top: 200px;
+    font-size: 50px;
+    letter-spacing: -2.5%;
+}
+
+#paragrafo1{
+    margin-top: 300px;
+    margin-left: -900px;
+    color: white;
+
+}
+
+#segundaparte{
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    width: 1440px;
+    height: 229px;
+    background-color: #f9f9f9;
+}
+
+#t1div2{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+#p1div2{
+    margin-top: 150px;
+    margin-left: -80px;
+    font: bold;
+}
+
+#t2div2{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+#p2div2{
+    margin-top: 150px;
+    margin-left: -40px;
+}
+
+#t3div2{
+    margin-top: 100px;
+    margin-left: 350px;
+
+}
+
+#p3div2{
+    margin-top: 150px;
+    margin-left: -160px;
+}
+
+#parte3{
+    width: 1040px;
+    height: 700px;
+    background-color: white;
+    display: flex;
+    
+}
+
+
+  #imagemdosite{
+    margin-top: 100px;
+    margin-left: 600px;
+    border-radius: 30px;
+    width: 500px;
+}
+
+#titulopt3{
+margin-top: 250px;
+margin-left: 100px;
+}
+
+#paragrafopt3{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+#divimagem{
+    margin-left: 800px;
+    margin-top: -400px;
+    
+}
+
+#divformulario{
+    width: 1440px;
+    height: 638px;
+    background-color: #303030;
+   display: grid;
+}
+
+#tituloformulario{
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+    margin-left: 50px;
+    
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 480PX;
+}
+
+button{
+    width: 286px;
+    height: 74px;
+    color: white;
+    border-radius: 10px;
+    background-color: #C07012;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 590px;
+    margin-top: 50px;
+}
